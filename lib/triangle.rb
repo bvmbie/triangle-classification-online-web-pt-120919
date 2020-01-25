@@ -10,10 +10,7 @@ class Triangle
   end
   
   def kind 
-    if valid?
-      if 
-      end
-    end
+    
   end
   
   class TriangleError < StandardError
